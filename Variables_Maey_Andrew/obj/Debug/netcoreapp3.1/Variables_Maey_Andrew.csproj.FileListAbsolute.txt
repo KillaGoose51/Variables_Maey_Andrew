@@ -1,0 +1,13 @@
+C:\Users\Andrew.Maxey\source\repos\Variables_Maey_Andrew\Variables_Maey_Andrew\obj\Debug\netcoreapp3.1\Variables_Maey_Andrew.csproj.AssemblyReference.cache
+C:\Users\Andrew.Maxey\source\repos\Variables_Maey_Andrew\Variables_Maey_Andrew\obj\Debug\netcoreapp3.1\Variables_Maey_Andrew.AssemblyInfoInputs.cache
+C:\Users\Andrew.Maxey\source\repos\Variables_Maey_Andrew\Variables_Maey_Andrew\obj\Debug\netcoreapp3.1\Variables_Maey_Andrew.AssemblyInfo.cs
+C:\Users\Andrew.Maxey\source\repos\Variables_Maey_Andrew\Variables_Maey_Andrew\obj\Debug\netcoreapp3.1\Variables_Maey_Andrew.csproj.CoreCompileInputs.cache
+C:\Users\Andrew.Maxey\source\repos\Variables_Maey_Andrew\Variables_Maey_Andrew\bin\Debug\netcoreapp3.1\Variables_Maey_Andrew.exe
+C:\Users\Andrew.Maxey\source\repos\Variables_Maey_Andrew\Variables_Maey_Andrew\bin\Debug\netcoreapp3.1\Variables_Maey_Andrew.deps.json
+C:\Users\Andrew.Maxey\source\repos\Variables_Maey_Andrew\Variables_Maey_Andrew\bin\Debug\netcoreapp3.1\Variables_Maey_Andrew.runtimeconfig.json
+C:\Users\Andrew.Maxey\source\repos\Variables_Maey_Andrew\Variables_Maey_Andrew\bin\Debug\netcoreapp3.1\Variables_Maey_Andrew.runtimeconfig.dev.json
+C:\Users\Andrew.Maxey\source\repos\Variables_Maey_Andrew\Variables_Maey_Andrew\bin\Debug\netcoreapp3.1\Variables_Maey_Andrew.dll
+C:\Users\Andrew.Maxey\source\repos\Variables_Maey_Andrew\Variables_Maey_Andrew\bin\Debug\netcoreapp3.1\Variables_Maey_Andrew.pdb
+C:\Users\Andrew.Maxey\source\repos\Variables_Maey_Andrew\Variables_Maey_Andrew\obj\Debug\netcoreapp3.1\Variables_Maey_Andrew.dll
+C:\Users\Andrew.Maxey\source\repos\Variables_Maey_Andrew\Variables_Maey_Andrew\obj\Debug\netcoreapp3.1\Variables_Maey_Andrew.pdb
+C:\Users\Andrew.Maxey\source\repos\Variables_Maey_Andrew\Variables_Maey_Andrew\obj\Debug\netcoreapp3.1\Variables_Maey_Andrew.genruntimeconfig.cache
